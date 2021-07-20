@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikko Dulay aka Neko-ru
+- 👋 Hi, I’m Nikko Dulay AKA Neko-ru
 - 👀 I’m interested in exploring things
 - 🌱 I’m currently learning how to program in C
 - 💞️ I’m looking to collaborate on growing with this field
